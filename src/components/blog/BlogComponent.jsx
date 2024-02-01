@@ -15,7 +15,7 @@ const BlogComponent = () => {
   useEffect(() => {
     dispatch(getDataBlog());
   }, [dispatch]);
-  console.log(blog);
+
   return (
     <Container className="mt-3">
       <Row className="justify-content-md-center">

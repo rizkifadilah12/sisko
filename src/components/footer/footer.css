@@ -1,0 +1,29 @@
+.text-title{
+    color: #c99947;
+    font-family: 'PlayfairDisplay';
+    font-style: italic;
+    font-size: 14px;
+}
+.widget-title{
+    font-size: 19px;
+    color: #eeeeee;
+    margin-bottom: 30px;
+}
+.text-address{
+    color: #888;
+    margin-bottom: 22px;
+}
+.text-qna{
+    color: #888888;
+    font-family: 'Montserrat';
+    font-size: 14px;
+}
+.text-footer{
+    color: #888888;
+    font-family: 'Montserrat';
+    font-size: 12px;
+}
+.link{
+    color: #c99947;
+    text-decoration: none;
+}

@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbars from '../../components/header/navbar'
+import Navbars from "../../components/header/Navbar";
 import Banner from '../../components/banner/Banner'
 import HeaderContent from '../../components/header/HeaderContent'
 import ProductComponent from '../../components/product/ProductComponent'

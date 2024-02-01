@@ -1,6 +1,6 @@
 import React from 'react'
 import BlogComponent from '../../components/blog/BlogComponent'
-import Navbars from '../../components/header/navbar'
+import Navbars from "../../components/header/Navbar";
 import Footer from '../../components/footer/Footer'
 
 const Blog = () => {

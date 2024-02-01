@@ -1,6 +1,6 @@
 import React from 'react'
 import ProductDetail from '../../components/detail/ProductDetail'
-import Navbars from '../../components/header/navbar'
+import Navbars from "../../components/header/Navbar";
 import Footer from '../../components/footer/Footer'
 
 const Detail = () => {
